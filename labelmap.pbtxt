@@ -6,3 +6,11 @@ item {
     id: 2
     name: 'olive'
 }
+item {
+    id: 3
+    name: 'unhealthy leaf'
+}
+item {
+    id: 4
+    name: 'leaf spot'
+}

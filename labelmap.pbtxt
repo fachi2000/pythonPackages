@@ -8,6 +8,6 @@ item {
 }
 item {
     id: 3
-    name: 'unhealthy'
+    name: 'unhealthy leaf'
 }
 

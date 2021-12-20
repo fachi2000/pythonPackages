@@ -30,8 +30,6 @@ def class_text_to_int(row_label):
         return 2
     elif row_label == 'unhealthy leaf':
         return 3
-    elif row_label == 'leaf spot':
-        return 4
     else:
         return None
 
